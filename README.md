@@ -34,7 +34,8 @@ Easy to use , simple and effective UI degine. It can be use for business purpose
 ![Desktop Screenshot 2021 01 13 - 12 08 41 21](https://user-images.githubusercontent.com/70909882/104424801-d9626080-55a5-11eb-82ce-bd11e3c81abe.png)
 
 
-![Desktop Screenshot 2021 01 13 - 12 09 13 08](https://user-images.githubusercontent.com/70909882/104424893-f9921f80-55a5-11eb-9b63-15760ff5cf77.png
+![Desktop Screenshot 2021 01 13 - 12 09 13 08](https://user-images.githubusercontent.com/70909882/104425215-65748800-55a6-11eb-9d6d-b5ac7153dc09.png)
+
 
 # responsive
 
