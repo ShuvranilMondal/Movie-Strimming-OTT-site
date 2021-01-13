@@ -1,0 +1,263 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.header{
+    position: relative;
+    height: 100vh;
+    /* background: linear-gradient(rgba(0,0,0,.5) , rgba(0,0,0,.5)) ,url("../image-file/3658607.jpg"); */
+    background: linear-gradient(to top,rgba(0,0,0,.8) 0,rgba(0,0,0,.4) 60%,rgba(0,0,0,.8) 100%),url("../image-file/3658607.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-bottom: 8px solid #222;;
+}
+
+.navbar{
+    /* border: 2px solid white; */
+    padding: 1rem;
+   
+    
+}
+
+.navbar .logo , .navbar a{
+    color:#e50914;
+}
+
+.header .navbar .logo{
+    float: left;
+    font-size: 5.0em;
+}
+
+.header .navbar .nav-items{
+    float: right;
+    margin-top: 1rem;
+}
+
+.header .navbar .nav-item{
+    display: inline-block;
+    padding: 1rem;
+    text-transform: uppercase;
+}
+
+
+.navbar a{
+    padding-bottom: 0.3rem;
+    font-size: 1.6rem;
+    text-decoration: none;
+    font-weight: 500;
+    letter-spacing: 0.15em;
+    border: 1px solid  #e50914 ;
+    color: rgb(216, 199, 199);
+    background-color: #e50914;
+    padding: 0.3em 1.0em;
+    border-radius: 2rem;
+    margin: 0.5em 0;
+    
+}
+
+.navbar a:hover{
+    color: white;
+    background-color: red;
+}
+
+/* margin both side */
+
+.contenor{
+    max-width: 1200px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+
+
+.navbar::after{
+    content: "";
+    display: block;
+    clear: both;
+
+}
+
+.header-content .headline{
+    color: white;
+    text-transform: uppercase;
+    font-size: 5.0em;
+    letter-spacing: 0.15em;
+    margin-bottom: 0.5rem;
+    
+}
+
+.header-content .tagline{
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    font-size: 1.6rem;
+    margin-bottom: 0.5em;
+    font-weight: 500;
+}
+
+.header-content .btn{
+    display: inline-block;
+    padding: 0.5em 1.5em;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin: 0.5em 0;
+}
+
+.btn-primary{
+    background-color: #e50914;
+    text-decoration: none;
+    color: white;
+    font-size: 1.6rem;
+    margin-bottom: 0.5em;
+    border-radius: 0.2em;
+    
+}
+
+.header-content .btn{
+    margin: 00.5em;
+
+}
+
+.btn:hover{
+    background-color: red;
+}
+
+.header-content{
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+}
+
+.showcase{
+    background-color: black;
+    padding: 10rem 0;
+}
+
+.row{
+    /* border: 2px solid red; */
+    height: 350px;
+    
+}
+
+.row1 , .row2{
+    margin-bottom: 10rem;
+}
+
+.row1 .imagebox , .row2 .textbox , .row3 .imagebox{
+    float: left;
+    width: 50%;
+}
+
+.row1 .textbox , .row2 .imagebox , .row3 .textbox{
+    float: right;
+    width: 50%;
+}
+
+
+
+
+.row .imagebox{
+    /* border: 2px solid green; */
+    height: 100%;
+}
+
+.row .textbox{
+    /* border: 2px solid rebeccapurple; */
+    height: 100%;
+}
+
+.textbox{
+    color: white;
+    padding: 3rem;
+}
+
+.row .imagebox img{
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border: 4px solid #222;
+    
+}
+
+.textbox h2{
+    color: white;
+    text-transform: capitalize;
+    font-size: 4.5em;
+    margin-bottom: 2.5rem;
+}
+
+.textbox p{
+    color: white;
+    text-transform: capitalize;
+    font-size: 2.6rem;
+    font-weight: 500;
+
+}
+
+.showcase{
+    border-bottom: 8px solid #222;
+}
+
+.heading .aboutus{
+    text-transform: capitalize;
+    color:white;
+    font-size: 4.5em;
+    /* border: 1px solid black; */
+    text-align: center;
+    /* margin-top: 8rem; */
+    margin-bottom: 6rem;
+    padding: 0;
+}
+
+.contenor .box{
+    /* border: 2px solid black; */
+    height: 70px;
+}
+
+.box1 , .box2 , .box3 , .box4{
+    margin-bottom: 2rem;
+    background-color: #222222;
+
+}
+
+.box-text{
+    color: white;
+    text-transform: capitalize;
+    font-size: 2.6rem;
+    font-weight: 500;
+    padding: 2rem;
+
+}
+
+.textdeco{
+    text-decoration: none;
+    color: white;
+}
+
+.textdeco:hover{
+    border-bottom: 2px solid white;
+}
+
+.about{
+    padding: 6rem 0;
+    background-color: black;
+}
+
+
+
