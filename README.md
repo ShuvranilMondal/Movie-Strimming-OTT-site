@@ -18,7 +18,7 @@ Easy to use , simple and effective UI degine. It can be use for business purpose
 
 # ScreenShots Below 👇
 
-# home page
+# Home page
 ![Desktop Screenshot 2021 01 13 - 12 07 05 26](https://user-images.githubusercontent.com/70909882/104424402-56d9a100-55a5-11eb-9efd-7c40fb55acd4.png)
 
 
@@ -29,7 +29,7 @@ Easy to use , simple and effective UI degine. It can be use for business purpose
 
 ![Desktop Screenshot 2021 01 13 - 12 08 09 94](https://user-images.githubusercontent.com/70909882/104424590-943e2e80-55a5-11eb-9a9f-21f049dc16cf.png)
 
-# movies list
+# Movies list
 
 ![Desktop Screenshot 2021 01 13 - 12 08 41 21](https://user-images.githubusercontent.com/70909882/104424801-d9626080-55a5-11eb-82ce-bd11e3c81abe.png)
 
@@ -37,7 +37,7 @@ Easy to use , simple and effective UI degine. It can be use for business purpose
 ![Desktop Screenshot 2021 01 13 - 12 09 13 08](https://user-images.githubusercontent.com/70909882/104425215-65748800-55a6-11eb-9d6d-b5ac7153dc09.png)
 
 
-# responsive
+# Responsive
 
 ![Desktop Screenshot 2021 01 13 - 12 11 30 19](https://user-images.githubusercontent.com/70909882/104425067-378f4380-55a6-11eb-98bb-6b95b0793786.png)
 
