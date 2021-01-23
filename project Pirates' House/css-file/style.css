@@ -260,4 +260,31 @@ body{
 }
 
 
+@media (max-width:639px){
+    html{
+        font-size: 50%;
+    }
+
+    .contenor .row{
+        height: auto;
+        width: 100%;
+    }
+
+    .contenor .row .imagebox{
+        float: none;
+        width: 100%;
+    }
+
+    .contenor .row .textbox{
+        float: none;
+        width: 100%;
+    }
+}
+
+@media (orientation:landscape) and (max-height:400px){
+    .header{
+        height: 90vmax;
+    }
+}
+
 
