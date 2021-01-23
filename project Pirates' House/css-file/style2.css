@@ -218,3 +218,44 @@ span{
     padding: 6rem 0;
     background-color: black;
 }
+
+@media (max-width:600px){
+    html{
+        font-size: 50%;
+    }
+
+}
+
+@media (max-width:1024px) and (min-width:1023px){
+    .header .contenor .img-heading{
+        padding-top: 59rem;
+    }
+}
+
+@media (max-width:768px) and (min-width:767px){
+    .header .contenor .img-heading{
+        padding-top: 29rem;
+    }
+}
+
+@media (orientation:landscape) and (max-height:360px){
+    .header{
+        height: 90vmax;
+    }
+}
+
+@media (orientation:landscape) and (max-height:768px){
+    .header .contenor .img-heading{
+        padding-top: 10rem;
+    }
+}
+
+@media (max-width:320px) and (min-width:319px){
+    .header .contenor .img-heading{
+        padding-top: 3rem;
+    }
+
+    body .header{
+        padding-top: 3rem;
+    }
+}
